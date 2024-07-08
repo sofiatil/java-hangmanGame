@@ -1,4 +1,4 @@
-# mini-java-projects
+# hangman game with java (no interface)
 
 #hangmanProject
 It is a hangman game using a local dictionary of 100 words
